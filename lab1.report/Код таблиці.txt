@@ -1,0 +1,58 @@
+<style>
+table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #ddd;
+        } 
+
+        tr:nth-child(odd) {
+            background-color: #ffffff;
+        } 
+</style>
+<table>
+        <tr>
+          <th>Вид спорту</th>
+          <th>Команди</th>
+          <th>Дата</th>
+        </tr>
+        <tr>
+          <td>Баскетбол</td>
+          <td>Ворріорс-Лейкерс</td>
+          <td>8.10/3:30</td>
+        </tr>
+        <tr>
+          <td>Баскетбол</td>
+          <td>Бакс-Буллз</td>
+          <td>8.10/20:00</td>
+        </tr>
+        <tr>
+          <td>Футбол</td>
+          <td>Арсенал-Манчестер Сіті</td>
+          <td>8.10/19:30</td>
+        </tr>
+        <tr>
+          <td>Футбол</td>
+          <td>Севілья-Альмерія</td>
+          <td>26.09/20:00</td>
+        </tr>
+        <tr>
+          <td>Футбол</td>
+          <td>Атлетік-Хетафе</td>
+          <td>27.09/20:00</td>
+        </tr>
+        <tr>
+          <td>Волейбол</td>
+          <td>Берлін-Зорпезее</td>
+          <td>24.09/16:00</td>
+        </tr>
+      </table>

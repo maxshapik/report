@@ -1,0 +1,6 @@
+body{
+            background-image: url(https://st4.depositphotos.com/1187563/21644/i/600/depositphotos_216448640-stock-photo-heap-of-orange-basketball-ball.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }

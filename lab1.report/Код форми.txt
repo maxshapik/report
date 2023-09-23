@@ -1,0 +1,8 @@
+<form>
+        <input type="radio" id="mg" name="fav_bp" value="Michael Jordan">
+        <label for="mg">Michael Jordan</label><br>
+        <input type="radio" id="lg" name="fav_bp" value="Lebron James">
+        <label for="lg">Lebron James</label><br>
+        <input type="radio" id="kb" name="fav_bp" value="Kobe Bryant">
+        <label for="kb">Kobe Bryant</label>
+      </form>
